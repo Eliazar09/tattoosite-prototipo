@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { ChevronRight, CheckCircle2, ChevronLeft, HelpCircle, Clock, AlertTriangle, MessageCircle, ImagePlus } from 'lucide-react'
+import { ChevronRight, CheckCircle2, ChevronLeft, HelpCircle, Clock, AlertTriangle, MessageCircle } from 'lucide-react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 
